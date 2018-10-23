@@ -21,5 +21,7 @@ https://www.codewars.com/kata/consecutive-strings
 <br>
 https://www.codewars.com/kata/persistent-bugger
 <br>
-
+<b><h4>7kyu</h4></b>
+https://www.codewars.com/kata/remove-the-minimum
+<br>
 
