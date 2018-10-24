@@ -21,6 +21,8 @@ https://www.codewars.com/kata/consecutive-strings
 <br>
 https://www.codewars.com/kata/count-the-smiley-faces
 <br>
+https://www.codewars.com/kata/find-the-odd-int
+<br>
 https://www.codewars.com/kata/persistent-bugger
 <br>
 <b><h4>7kyu</h4></b>
