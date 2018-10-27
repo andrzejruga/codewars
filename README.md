@@ -25,6 +25,8 @@ https://www.codewars.com/kata/find-the-odd-int
 <br>
 https://www.codewars.com/kata/persistent-bugger
 <br>
+https://www.codewars.com/kata/your-order-please
+<br>
 <b><h4>7kyu</h4></b>
 https://www.codewars.com/kata/friend-or-foe
 <br>
