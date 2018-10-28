@@ -16,6 +16,9 @@ I'll try to add more solutions as often as I have some time. Hope to hit at leas
 <br>
 <br>
 <b><h3>Here are the links to katas in this repository:</h3></b>
+<b><h4>5kyu</h4></b>
+https://www.codewars.com/kata/first-non-repeating-character
+<br>
 <b><h4>6kyu</h4></b>
 https://www.codewars.com/kata/consecutive-strings
 <br>
