@@ -34,6 +34,8 @@ https://www.codewars.com/kata/persistent-bugger
 <br>
 https://www.codewars.com/kata/tortoise-racing
 <br>
+https://www.codewars.com/kata/two-sum
+<br>
 https://www.codewars.com/kata/your-order-please
 <br>
 <b><h4>7kyu</h4></b>
