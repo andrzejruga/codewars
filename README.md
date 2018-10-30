@@ -38,6 +38,8 @@ https://www.codewars.com/kata/tortoise-racing
 <br>
 https://www.codewars.com/kata/two-sum
 <br>
+https://www.codewars.com/kata/write-number-in-expanded-form
+<br>
 https://www.codewars.com/kata/your-order-please
 <br>
 <b><h4>7kyu</h4></b>
