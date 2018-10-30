@@ -22,6 +22,8 @@ https://www.codewars.com/kata/first-non-repeating-character
 https://www.codewars.com/kata/number-of-trailing-zeros-of-n
 <br>
 <b><h4>6kyu</h4></b>
+https://www.codewars.com/kata/array-helpers
+<br>
 https://www.codewars.com/kata/consecutive-strings
 <br>
 https://www.codewars.com/kata/count-the-smiley-faces
