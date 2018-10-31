@@ -21,6 +21,8 @@ https://www.codewars.com/kata/first-non-repeating-character
 <br>
 https://www.codewars.com/kata/number-of-trailing-zeros-of-n
 <br>
+https://www.codewars.com/kata/where-my-anagrams-at
+<br>
 <b><h4>6kyu</h4></b>
 https://www.codewars.com/kata/array-helpers
 <br>
