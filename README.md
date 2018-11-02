@@ -45,6 +45,8 @@ https://www.codewars.com/kata/write-number-in-expanded-form
 https://www.codewars.com/kata/your-order-please
 <br>
 <b><h4>7kyu</h4></b>
+https://www.codewars.com/kata/count-number-of-zeros-from-1-to-n
+<br>
 https://www.codewars.com/kata/friend-or-foe
 <br>
 https://www.codewars.com/kata/remove-the-minimum
