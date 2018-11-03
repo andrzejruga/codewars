@@ -19,6 +19,8 @@ I'll try to add more solutions as often as I have some time. Hope to hit at leas
 <b><h4>5kyu</h4></b>
 https://www.codewars.com/kata/first-non-repeating-character
 <br>
+https://www.codewars.com/kata/first-variation-on-caesar-cipher
+<br>
 https://www.codewars.com/kata/is-my-friend-cheating
 <br>
 https://www.codewars.com/kata/number-of-trailing-zeros-of-n
