@@ -17,6 +17,8 @@ I'll try to add more solutions as often as I have some time. Hope to hit at leas
 <br>
 <b><h3>Here are the links to katas in this repository:</h3></b>
 <b><h4>5kyu</h4></b>
+https://www.codewars.com/kata/double-cola
+<br>
 https://www.codewars.com/kata/first-non-repeating-character
 <br>
 https://www.codewars.com/kata/first-variation-on-caesar-cipher
