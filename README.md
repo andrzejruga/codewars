@@ -40,6 +40,8 @@ https://www.codewars.com/kata/equal-sides-of-an-array
 <br>
 https://www.codewars.com/kata/find-the-odd-int
 <br>
+https://www.codewars.com/kata/multiplication-tables
+<br>
 https://www.codewars.com/kata/persistent-bugger
 <br>
 https://www.codewars.com/kata/tortoise-racing
