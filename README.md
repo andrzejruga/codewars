@@ -61,6 +61,8 @@ https://www.codewars.com/kata/count-number-of-zeros-from-1-to-n
 <br>
 https://www.codewars.com/kata/friend-or-foe
 <br>
+https://www.codewars.com/kata/regex-validate-pin-code
+<br>
 https://www.codewars.com/kata/remove-the-minimum
 <br>
 
