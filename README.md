@@ -40,6 +40,8 @@ https://www.codewars.com/kata/delete-occurrences-of-an-element-if-it-occurs-more
 <br>
 https://www.codewars.com/kata/equal-sides-of-an-array
 <br>
+https://www.codewars.com/kata/find-the-missing-letter
+<br>
 https://www.codewars.com/kata/find-the-odd-int
 <br>
 https://www.codewars.com/kata/multiplication-tables
