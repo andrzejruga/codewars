@@ -59,6 +59,8 @@ https://www.codewars.com/kata/your-order-please
 <b><h4>7kyu</h4></b>
 https://www.codewars.com/kata/count-number-of-zeros-from-1-to-n
 <br>
+https://www.codewars.com/kata/descending-order
+<br>
 https://www.codewars.com/kata/friend-or-foe
 <br>
 https://www.codewars.com/kata/regex-validate-pin-code
