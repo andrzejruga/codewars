@@ -65,4 +65,6 @@ https://www.codewars.com/kata/regex-validate-pin-code
 <br>
 https://www.codewars.com/kata/remove-the-minimum
 <br>
+<b><h4>8kyu</h4></b>
+https://www.codewars.com/kata/find-the-smallest-integer-in-the-array
 
