@@ -14,6 +14,9 @@ I'll try to add more solutions as often as I have some time. Hope to hit at leas
 <img src=https://www.codewars.com/users/andrzejruga/badges/large>
 
 <br>
+Kyu number represents kata's difficulty and also user's current rank.
+<br>
+Every new Codewarrior (user) starts being ranked as 8 Kyu (beginner) and steps up to 1 Kyu (proficient).
 <br>
 <b><h3>Here are the links to katas in this repository:</h3></b>
 <b><h4>5kyu</h4></b>
