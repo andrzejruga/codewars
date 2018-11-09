@@ -50,6 +50,8 @@ https://www.codewars.com/kata/persistent-bugger
 <br>
 https://www.codewars.com/kata/salesmans-travel
 <br>
+https://www.codewars.com/kata/stop-gninnips-my-sdrow
+<br>
 https://www.codewars.com/kata/tortoise-racing
 <br>
 https://www.codewars.com/kata/two-sum
