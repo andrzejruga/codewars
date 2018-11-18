@@ -70,6 +70,8 @@ https://www.codewars.com/kata/descending-order
 <br>
 https://www.codewars.com/kata/exes-and-ohs
 <br>
+https://www.codewars.com/kata/folding-your-way-to-the-moon
+<br>
 https://www.codewars.com/kata/friend-or-foe
 <br>
 https://www.codewars.com/kata/regex-validate-pin-code
