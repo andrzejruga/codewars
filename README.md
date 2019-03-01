@@ -76,6 +76,8 @@ https://www.codewars.com/kata/folding-your-way-to-the-moon
 <br>
 https://www.codewars.com/kata/friend-or-foe
 <br>
+https://www.codewars.com/kata/list-filtering
+<br>
 https://www.codewars.com/kata/regex-validate-pin-code
 <br>
 https://www.codewars.com/kata/remove-the-minimum
